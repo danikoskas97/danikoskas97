@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-koskas/)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Danikoskas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koskas.dani@gmail.com)
 
 </div>
 
@@ -39,6 +38,9 @@
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM_Agents-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **Infra & Tools**
 
@@ -74,7 +76,7 @@
 - 🎙️ **Audio AI tooling** — voice conversion (RVC) workers & TTS/translation bots
 - 📈 **Algorithmic trading system** — automated market analysis & strategy execution *(in progress 🚧)*
 
-*Interested in the details? [Reach out](mailto:koskas.dani@gmail.com) — happy to walk through the architecture.*
+*Interested in the details? [Reach out on LinkedIn](https://www.linkedin.com/in/dani-koskas/) — happy to walk through the architecture.*
 
 ---
 
@@ -84,7 +86,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-koskas/)
 [![Linktree](https://img.shields.io/badge/All_my_links-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Danikoskas)
-[![Email](https://img.shields.io/badge/koskas.dani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koskas.dani@gmail.com)
 
 <br>
 
