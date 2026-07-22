@@ -65,12 +65,16 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 What I'm Building
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏭 [**Content Creations App**](https://github.com/danikoskas97/content-creations-app) | AI-powered content factory — automated multi-platform content generation pipeline with monorepo architecture, CI/CD & microservices | `TypeScript` `Node.js` `AI Agents` `Docker` |
-| 📈 [**Trading Bot**](https://github.com/danikoskas97/trading-bot) | Algorithmic trading system — automated market analysis & strategy execution *(work in progress 🚧)* | `Python` `Data Analysis` `Automation` |
+> 🔒 Most of my work lives in private repositories (client & commercial products). Highlights:
+
+- 🏭 **AI Content Factory** — automated multi-platform content generation pipeline: monorepo, microservices, CI/CD, LLM agents
+- 🤖 **JARVIS** — personal AI assistant (core engine, bot & web frontend) running daily operations
+- 🎙️ **Audio AI tooling** — voice conversion (RVC) workers & TTS/translation bots
+- 📈 **Algorithmic trading system** — automated market analysis & strategy execution *(in progress 🚧)*
+
+*Interested in the details? [Reach out](mailto:koskas.dani@gmail.com) — happy to walk through the architecture.*
 
 ---
 
