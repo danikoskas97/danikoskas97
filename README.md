@@ -57,7 +57,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=danikoskas97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danikoskas97&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danikoskas97&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=danikoskas97&theme=tokyonight&hide_border=true)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=danikoskas97&theme=tokyonight&no-frame=true&column=7)
 
