@@ -69,14 +69,9 @@
 
 ## 🌟 What I'm Building
 
-> 🔒 Most of my work lives in private repositories (client & commercial products). Highlights:
+> 🔒 My work lives in private repositories (client & commercial products) — spanning **AI automation, intelligent assistants, audio AI & algorithmic trading**.
 
-- 🏭 **AI Content Factory** — automated multi-platform content generation pipeline: monorepo, microservices, CI/CD, LLM agents
-- 🤖 **JARVIS** — personal AI assistant (core engine, bot & web frontend) running daily operations
-- 🎙️ **Audio AI tooling** — voice conversion (RVC) workers & TTS/translation bots
-- 📈 **Algorithmic trading system** — automated market analysis & strategy execution *(in progress 🚧)*
-
-*Interested in the details? [Reach out on LinkedIn](https://www.linkedin.com/in/dani-koskas/) — happy to walk through the architecture.*
+*Interested? [Reach out on LinkedIn](https://www.linkedin.com/in/dani-koskas/).*
 
 ---
 
