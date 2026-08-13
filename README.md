@@ -36,7 +36,7 @@ A VPS-deployed content automation platform covering editorial research, multimod
 
 ### 💎 AI Jewelry Studio
 
-An AI-assisted mobile product in development for jewelers to turn product photos into marketing imagery without writing prompts.
+An AI-assisted mobile product in development that helps jewelers turn simple product photos into professional marketing imagery — without writing prompts, hiring models, or commissioning costly photo shoots.
 
 ![Imaging](https://img.shields.io/badge/Imaging-9A6700?style=flat-square) ![Mobile](https://img.shields.io/badge/Mobile-8957E5?style=flat-square) ![Commerce](https://img.shields.io/badge/Commerce-30363D?style=flat-square)
 
