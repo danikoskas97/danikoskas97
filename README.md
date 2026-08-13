@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building **vertical AI products** — Social Factory & AI Jewelry Studio
-- 🤖 Designing **human-in-the-loop automation and generative media pipelines**
+- 🤖 Designing **autonomous AI and generative media pipelines** with configurable approval gates
 - 🧩 **End-to-end product engineer** — frontend, backend, AI, data, infrastructure & deployment
 - 🛍️ Also building **B2C and B2B commerce platforms** with custom operations, integrations & payments
 
@@ -27,7 +27,7 @@
 
 ### 🧭 Social Factory
 
-A local-first, human-in-the-loop system for editorial research, multimodal generation, review, scheduling & Meta publishing.
+A VPS-deployed content automation platform covering editorial research, multimodal generation, AI scoring of each post's viral potential, scheduling & Meta publishing. It can run with Telegram approval or in a fully autonomous autopilot mode.
 
 ![AI](https://img.shields.io/badge/AI-087F8C?style=flat-square) ![Media](https://img.shields.io/badge/Media-BF3989?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-30363D?style=flat-square)
 
